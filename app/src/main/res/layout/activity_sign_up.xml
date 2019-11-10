@@ -31,6 +31,7 @@
             android:drawablePadding="5dp"
             android:hint="@string/name"
             android:inputType="textPersonName" />
+        
 
         <EditText
             android:id="@+id/phoneET"
