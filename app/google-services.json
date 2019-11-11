@@ -8,18 +8,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:707399781285:android:827fe0d5472544e9f9364c",
+        "mobilesdk_app_id": "1:707399781285:android:8f541bc3c668db75f9364c",
         "android_client_info": {
           "package_name": "com.anik.armr.rentmate"
         }
       },
       "oauth_client": [
         {
-          "client_id": "707399781285-ibanquhvb2j4abqvuflj31cmj9vo4ujd.apps.googleusercontent.com",
+          "client_id": "707399781285-cgdgb215svdf3p8vr5jt9nqucfn7vvfa.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.anik.armr.rentmate",
-            "certificate_hash": "13681778efd46432a8b038fd8c266b7a8083f49a"
+            "certificate_hash": "fd17fd7a1394599f1935a4df2fd5fb07b74d4358"
           }
         },
         {
